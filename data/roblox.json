@@ -1,20 +1,20 @@
 {
-  "refreshedAt": "2026-08-18T10:46:00.097Z",
+  "refreshedAt": "2026-08-18T11:40:25.240Z",
   "game": {
     "universeId": 2233937689,
     "placeId": 6128441278,
     "name": "Water Physics",
-    "playing": 781,
-    "visits": 71029477,
-    "favorites": 141928,
-    "upVotes": 54087,
-    "downVotes": 8066,
+    "playing": 811,
+    "visits": 71033685,
+    "favorites": 141940,
+    "upVotes": 54085,
+    "downVotes": 8067,
     "updated": "2026-08-17T19:45:35.5214562Z"
   },
   "group": {
     "id": 34562627,
     "name": "Stuart Games",
-    "members": 1104390,
+    "members": 1104497,
     "verified": true
   }
 }
