@@ -1,20 +1,20 @@
 {
-  "refreshedAt": "2026-08-25T21:43:57.823Z",
+  "refreshedAt": "2026-08-25T22:44:44.032Z",
   "game": {
     "universeId": 2233937689,
     "placeId": 6128441278,
     "name": "[⛴️] Water Physics [CRUISE FERRY]",
-    "playing": 1379,
-    "visits": 72259687,
-    "favorites": 144630,
-    "upVotes": 54802,
-    "downVotes": 8170,
+    "playing": 1443,
+    "visits": 72267455,
+    "favorites": 144649,
+    "upVotes": 54804,
+    "downVotes": 8171,
     "updated": "2026-08-24T21:54:25.5406026Z"
   },
   "group": {
     "id": 34562627,
     "name": "Stuart Games",
-    "members": 1127928,
+    "members": 1128077,
     "verified": true
   }
 }
