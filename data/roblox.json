@@ -1,20 +1,20 @@
 {
-  "refreshedAt": "2026-10-11T20:16:16.300Z",
+  "refreshedAt": "2026-10-11T23:43:11.024Z",
   "game": {
     "universeId": 2233937689,
     "placeId": 6128441278,
     "name": "[🛠️] Water Physics [SHIP BUILDER]",
-    "playing": 2107,
-    "visits": 79208725,
-    "favorites": 158027,
-    "upVotes": 57827,
-    "downVotes": 8927,
+    "playing": 1707,
+    "visits": 79243894,
+    "favorites": 158100,
+    "upVotes": 57843,
+    "downVotes": 8932,
     "updated": "2026-10-11T20:02:14.505Z"
   },
   "group": {
     "id": 34562627,
     "name": "Stuart Games",
-    "members": 1284035,
+    "members": 1284952,
     "verified": true
   }
 }
